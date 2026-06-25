@@ -8,22 +8,24 @@
 <img width="334" height="592" alt="image" src="https://github.com/user-attachments/assets/91959bb3-8d6f-4dfa-99bc-c82debe1b912" />
 <img width="308" height="492" alt="image" src="https://github.com/user-attachments/assets/18ed4071-5514-4e4a-9a91-3907fae155a4" />
 
-**Additional Boards Manager URLs**      
-Preferences: http://arduino.esp8266.com/stable/package_esp8266com_index.json              
-
-**Install Board**     
-esp8266 by ESP8266      
-https://github.com/esp8266/Arduino
-
-**After that add board at IDE**     
-ESP8266\NodeMCU 1.0 (ESP12E Module)
+  
+- Open IDE, go to: File > Preferences, under Settings > Additional Boards Manager URLs. Add this:     
+  http://arduino.esp8266.com/stable/package_esp8266com_index.json              
+- Go to the “Board manager” tab, on the left-hand side of the screen. Type “esp8266” in the search bar. Install esp8266 (by ESP8266)
+  https://github.com/esp8266/Arduino     
+- Go to Tools > Board and select ESP8266\NodeMCU 1.0 (ESP12E Module)   
+- Connect the ESP8266 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the ESP8266 is connected to.
 
 **2.0 For ESP32**    
 <img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/e915bb26-c298-44f1-ace1-2da5f834dca7" />
 <img width="323" height="507" alt="image" src="https://github.com/user-attachments/assets/2d3ab650-93f2-4ad3-87e4-3f9971593236" />
 
-**Add board at IDE**
-esp32\ESP32 Dev Module
+- Open IDE, go to: File > Preferences, under Settings > Additional Boards Manager URLs. Add this:     
+  https://raw.githubusercontent.com/espressif/arduino-esp32/gh-pages/package_esp32_index.json
+- Go to the “Board manager” tab, on the left-hand side of the screen. Type “esp32” in the search bar. Install esp32 (by Espressif Systems)
+  https://github.com/espressif/arduino-esp32    
+- Go to Tools > Board and select esp32\ESP32 Dev Module   
+- Connect the esp32 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the esp32 is connected to.
 
 
 # AAT Training materials
