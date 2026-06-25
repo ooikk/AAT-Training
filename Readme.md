@@ -2,7 +2,27 @@
 
 [Share text link](https://sharetext.io/)
 
-# Board Setup
+# Board Setup     
+
+<img width="334" height="592" alt="image" src="https://github.com/user-attachments/assets/91959bb3-8d6f-4dfa-99bc-c82debe1b912" />
+<img width="308" height="492" alt="image" src="https://github.com/user-attachments/assets/18ed4071-5514-4e4a-9a91-3907fae155a4" />
+
+**Additional Boards Manager URLs**      
+Preferences: http://arduino.esp8266.com/stable/package_esp8266com_index.json              
+
+**Install Board**     
+esp8266 by ESP8266      
+https://github.com/esp8266/Arduino
+
+**After that add board at IDE**     
+ESP8266\NodeMCU 1.0 (ESP12E Module)
+
+
+<img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/e915bb26-c298-44f1-ace1-2da5f834dca7" />
+<img width="323" height="507" alt="image" src="https://github.com/user-attachments/assets/2d3ab650-93f2-4ad3-87e4-3f9971593236" />
+
+
+esp32\ESP32 Dev Module
 
 
 # AAT Training materials
