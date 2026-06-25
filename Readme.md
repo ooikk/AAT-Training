@@ -22,7 +22,7 @@ ESP8266\NodeMCU 1.0 (ESP12E Module)
 <img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/e915bb26-c298-44f1-ace1-2da5f834dca7" />
 <img width="323" height="507" alt="image" src="https://github.com/user-attachments/assets/2d3ab650-93f2-4ad3-87e4-3f9971593236" />
 
-
+**Add board at IDE**
 esp32\ESP32 Dev Module
 
 
