@@ -26,5 +26,12 @@ void setup() {
 }
 
 void loop() {
-
+  display.setCursor(0, 0);
+  display.println("Hello World!");
+  display.display();
+  delay(2000);
+  display.clearDisplay();
+  display.display();
+  Serial.println("Hello world.");
+  delay(1000);
 }
