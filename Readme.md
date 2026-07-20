@@ -14,7 +14,13 @@
 - Go to the “Board manager” tab, on the left-hand side of the screen. Type “esp8266” in the search bar. Install esp8266 (by ESP8266)
   https://github.com/esp8266/Arduino     
 - Go to Tools > Board and select ESP8266\NodeMCU 1.0 (ESP12E Module)   
-- Connect the ESP8266 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the ESP8266 is connected to.
+- Connect the ESP8266 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the ESP8266 is connected to.      
+
+
+<img width="817" height="542" alt="image" src="https://github.com/user-attachments/assets/8d74dc17-fed0-4a36-801b-b642e8b3d322" />      
+
+https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/      
+
 
 **2.0 For ESP32**    
 <img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/e915bb26-c298-44f1-ace1-2da5f834dca7" />
