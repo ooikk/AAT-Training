@@ -21,6 +21,9 @@
 
 https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/      
 
+<img width="834" height="729" alt="image" src="https://github.com/user-attachments/assets/228ed752-c6e9-4d9f-9287-f6236ec5200f" />     
+
+https://lastminuteengineers.com/esp8266-pinout-reference/
 
 **2.0 For ESP32**    
 <img width="255" height="480" alt="image" src="https://github.com/user-attachments/assets/e915bb26-c298-44f1-ace1-2da5f834dca7" />
