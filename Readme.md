@@ -37,7 +37,9 @@ https://lastminuteengineers.com/esp8266-pinout-reference/
 - Connect the esp32 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the esp32 is connected to.
 
 
-<img width="750" height="538" alt="image" src="https://github.com/user-attachments/assets/ea5b3ea9-c0e3-4f63-9031-2c49acd072e7" />
+<img width="1600" height="1091" alt="image" src="https://github.com/user-attachments/assets/bf3c3426-84db-463a-8b70-02c76f77527e" />    
+
+https://docs.espressif.com/projects/esp-idf/en/v5.1/esp32/hw-reference/esp32/get-started-devkitc.html 
 
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/       
 
