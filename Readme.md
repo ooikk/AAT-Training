@@ -28,6 +28,11 @@
 - Connect the esp32 to your computer using a USB cable. Then, go to Tools > Port and select the COM port that the esp32 is connected to.
 
 
+<img width="750" height="538" alt="image" src="https://github.com/user-attachments/assets/ea5b3ea9-c0e3-4f63-9031-2c49acd072e7" />
+
+https://randomnerdtutorials.com/esp32-pinout-reference-gpios/       
+
+
 # AAT Training materials
 
 **Module 5_Instrumentation and Measurement: Answer**
