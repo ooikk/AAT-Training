@@ -8,9 +8,16 @@
 #define SCREEN_HEIGHT 64
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
-// DHT22 Settings
+//#define ESP32
+#ifdef ESP32
+#define DHTPIN 4
+#else
 #define DHTPIN D4
-#define DHTTYPE DHT22
+#endif
+
+#define DHTTYPE DHT11  //DHT22
+
+
 DHT dht(DHTPIN, DHTTYPE);
 
 void setup() {
