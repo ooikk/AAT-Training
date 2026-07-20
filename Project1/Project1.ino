@@ -1,12 +1,20 @@
 #include <Wire.h>
 #include <Adafruit_GFX.h>
 #include <Adafruit_SSD1306.h>
+
+#define ESP32
+
 #define SCREEN_WIDTH 128  // OLED display width, in pixels
 #define SCREEN_HEIGHT 64  // OLED display height, in pixels
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
+#ifdef ESP32
+int pirPin = 18;
+#else
 int pirPin = D5;
+#endif
+
 int motionCount = 0;
 int detectionState = 0;
 
