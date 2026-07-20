@@ -6,10 +6,15 @@
 #define SCREEN_HEIGHT 64  // OLED display height, in pixels
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
-#define DHTPIN D2
-#define DHTTYPE DHT11
 
+//#define ESP32
+#ifdef ESP32
+#define DHTPIN 4
+#else
+#define DHTPIN D4
+#endif
 
+#define DHTTYPE DHT11   //DHT22
 
 float temp = 0;
 float humid = 0;
