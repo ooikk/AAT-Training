@@ -38,6 +38,13 @@ https://randomnerdtutorials.com/esp8266-pinout-reference-gpios/
 
 https://randomnerdtutorials.com/esp32-pinout-reference-gpios/       
 
+**Connect to 0.96" QLED**      
+
+*ESP8266:*     
+https://randomnerdtutorials.com/esp8266-0-96-inch-oled-display-with-arduino-ide/       
+
+*ESP32:*      
+https://randomnerdtutorials.com/esp32-ssd1306-oled-display-arduino-ide/      
 
 # AAT Training materials
 
