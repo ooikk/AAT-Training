@@ -66,5 +66,5 @@ https://github.com/adafruit/DHT-sensor-library
 
 <img width="922" height="1072" alt="image" src="https://github.com/user-attachments/assets/a1b68563-f040-4fea-b80f-94bc6aedaae2" />
 <img width="944" height="461" alt="image" src="https://github.com/user-attachments/assets/153daef8-abe6-42dc-8464-413bf02532a4" />
-<img width="994" height="1370" alt="image" src="https://github.com/user-attachments/assets/25228dd4-a25b-41ea-940e-47845b1899d9" />
+
 
