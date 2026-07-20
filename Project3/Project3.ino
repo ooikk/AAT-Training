@@ -6,7 +6,12 @@
 // Declaration for an SSD1306 display connected to I2C (SDA, SCL pins)
 Adafruit_SSD1306 display(SCREEN_WIDTH, SCREEN_HEIGHT, &Wire, -1);
 
+//#define ESP32
+#ifdef ESP32
+int pirPin = 18;
+#else
 int pirPin = D5;
+#endif
 int detectionState = 0;
 int entryCount = 0;
 
